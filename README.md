@@ -2,7 +2,7 @@
 
 A lightweight, production-style **Gymnasium** environment for **grid edge learning control, optimization, security, and energy management**.
 It provides modular device models (DG, RES, ESS, Shunt, Transformer, Grid) with clean action/observation spaces, centralized safety metrics, and pluggable rewards — designed for Reinforcement Learning (RL) and Multi-Agent RL research.
-Plug-and-play APIs for users to implement various grid edge scenarios.
+It features plug-and-play APIs for users to implement various grid edge scenarios.
 
 ---
 
